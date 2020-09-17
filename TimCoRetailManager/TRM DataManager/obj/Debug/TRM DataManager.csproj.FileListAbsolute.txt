@@ -93,3 +93,5 @@ C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\obj\Debug\TRM Dat
 C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\obj\Debug\TRM DataManager.csproj.CopyComplete
 C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\obj\Debug\TRM DataManager.dll
 C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\obj\Debug\TRM DataManager.pdb
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\Swashbuckle.Core.dll
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\WebActivatorEx.dll
