@@ -1,0 +1,10 @@
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\bin\Debug\TRMData.dacpac
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\bin\Debug\TRMData.dll
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\bin\Debug\TRMData.pdb
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\obj\Debug\TRMData.sqlprojAssemblyReference.cache
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\obj\Debug\Model.xml
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\obj\Debug\refactor.xml
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\obj\Debug\postdeploy.sql
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\obj\Debug\predeploy.sql
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\obj\Debug\TRMData.dll
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRMData\obj\Debug\TRMData.pdb
