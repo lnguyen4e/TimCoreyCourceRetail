@@ -95,3 +95,7 @@ C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\obj\Debug\TRM Dat
 C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\obj\Debug\TRM DataManager.pdb
 C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\Swashbuckle.Core.dll
 C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\WebActivatorEx.dll
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\TRMDataManager.Library.dll
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\Dapper.dll
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\TRMDataManager.Library.pdb
+C:\NABA\TimCorey\New folder\TimCoRetailManager\TRM DataManager\bin\Dapper.xml
